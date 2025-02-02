@@ -71,7 +71,7 @@ This is a personal repository; however, suggestions and improvements are always 
 
 ## 🏆 Achievements
 
-- **Monthly Progress Streak**: Successfully completed DCCs for [November, December in 2024].
+- **Monthly Progress Streak**: Earned Leetcode Badges for [Nov'24, Dec'24, and Jan'25].
   
 ---
 
