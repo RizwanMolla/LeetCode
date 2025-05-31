@@ -71,7 +71,7 @@ This is a personal repository; however, suggestions and improvements are always 
 
 ## 🏆 Achievements
 
-- **Monthly Progress Streak**: Earned Leetcode Badges for [Nov'24, Dec'24, Jan'25, Feb'25, Mar'25 and Apr'25].
+- **Monthly Progress Streak**: Earned Leetcode Badges for [Nov'24, Dec'24, Jan'25, Feb'25, Mar'25 and Apr'25, May'25].
   
 ---
 
