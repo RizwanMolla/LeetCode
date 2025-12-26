@@ -93,8 +93,8 @@ This is a personal repository; however, suggestions and improvements are always 
   
   <img src="badges/dcc-2025-5.png" width="80" />
   <img src="badges/dcc-2025-6.png" width="80" />
-  <img src="badges/dcc-2025-7.png" width="80" />
   <img src="badges/lg365.png" width="80" />
+  <img src="badges/dcc-2025-7.png" width="80" />
   <img src="badges/dcc-2025-8.png" width="80" />
   
  
