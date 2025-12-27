@@ -71,9 +71,48 @@ This is a personal repository; however, suggestions and improvements are always 
 
 ## 🏆 Achievements
 
-- **Monthly Progress Streak**: Earned Leetcode Badges for [Nov'24, Dec'24, Jan'25, Feb'25, Mar'25 and Apr'25, May'25, Jun'25 & Jul'25].
-  
----
+- **Monthly Progress Streak:** Consistently earned LeetCode monthly challenge badges from Nov 2024 onward, completing all months in 2025.
+
+### LeetCode Monthly Badge Streak
+
+<p align="center">
+
+  <!-- 2024 -->
+  <img src="badges/dcc-2024-11.png" width="160" />
+  <img src="badges/dcc-2024-12.png" width="160" />
+  <br>
+
+  <!-- 2025 -->
+  <img src="badges/dcc-2025-1.png" width="160" />
+  <img src="badges/dcc-2025-2.png" width="160" />
+  <img src="badges/dcc-2025-3.png" width="160" />
+  <br>
+
+  <img src="badges/dcc-2025-4.png" width="160" />
+  <img src="badges/dcc-2025-5.png" width="160" />
+  <img src="badges/dcc-2025-6.png" width="160" />
+  <br>
+
+  <img src="badges/dcc-2025-7.png" width="160" />
+  <img src="badges/dcc-2025-8.png" width="160" />
+  <img src="badges/dcc-2025-9.png" width="160" />
+  <br>
+
+  <img src="badges/dcc-2025-10.png" width="160" />
+  <img src="badges/dcc-2025-11.png" width="160" />
+  <br>
+
+  <!-- Other badges -->
+  <img src="badges/2024-50-lg.png" width="160" />
+  <img src="badges/lg2550.png" width="160" />
+  <img src="badges/lg25100.png" width="160" />
+  <br>
+
+  <img src="badges/lg200.png" width="160" />
+  <img src="badges/2025_lg.png" width="160" />
+
+</p>
+
 
 ## 📫 Contact  
 
