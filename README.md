@@ -93,20 +93,26 @@ This is a personal repository; however, suggestions and improvements are always 
   
   <img src="badges/dcc-2025-5.png" width="80" />
   <img src="badges/dcc-2025-6.png" width="80" />
+  <img src="badges/dcc-2025-7.png" width="80" />
+  <img src="badges/lg365.png" width="80" />
   <img src="badges/dcc-2025-8.png" width="80" />
-  <img src="badges/dcc-2025-9.png" width="80" />
-  <img src="badges/dcc-2025-10.png" width="80" />
+  
+ 
 
   <br>
+  <img src="badges/dcc-2025-9.png" width="80" />
+  <img src="badges/dcc-2025-10.png" width="80" />
   <img src="badges/dcc-2025-11.png" width="80" />
 
   <!-- Other badges -->
   
   <img src="badges/lg2550.png" width="80" />
-  <img src="badges/lg25100.png" width="80" />
-  <img src="badges/lg200.png" width="80" />
+  
+  
 
   <br>
+  <img src="badges/lg25100.png" width="80" />
+  <img src="badges/lg200.png" width="80" />
   <img src="badges/2025_lg.png" width="80" />
 
 </p>
