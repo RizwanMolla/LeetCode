@@ -1,8 +1,35 @@
 # LeetCode DCC Repository
 
-Welcome to the **LeetCode (Daily Coding Challenge) Solutions** repository! 🚀  
+LeetCode solutions organized for fast browsing by problem number range.
 
-This repository is dedicated to maintaining solutions for various problems from [LeetCode](https://leetcode.com/). Here, you'll find my implementations, optimized solutions, and explanations for solving these problems.  
+This repository tracks Daily Coding Challenge progress, keeps solutions easy to find, and is structured to scale as the collection grows.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Quick Navigation](#quick-navigation)
+- [LeetCode Monthly Badge Streak](#leetcode-monthly-badge-streak)
+- [Directory Structure](#directory-structure)
+- [How to Find a Problem Quickly](#how-to-find-a-problem-quickly)
+- [Features](#features)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+
+## Overview
+
+- Platform: [LeetCode](https://leetcode.com/)
+- Primary language: Python
+- Also included: selected Java solutions
+- Organization style: problem-number buckets (`1-1000`, `1001-2000`, ...)
+
+## Quick Navigation
+
+- [Browse 1-1000](1-1000)
+- [Browse 1001-2000](1001-2000)
+- [Browse 2001-3000](2001-3000)
+- [Browse 3001-4000](3001-4000)
+- [View badges](badges)
 
 ---
 ### LeetCode Monthly Badge Streak
@@ -59,75 +86,109 @@ This repository is dedicated to maintaining solutions for various problems from 
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 
 ```
 LeetCode/
 |
-|-- 123. Problem Name /
-|   |-- solution.py
-|-- 456. Problem Name /
-|   |-- solution.py
+|-- 1-1000/
+|   |-- 11. Container With Most Water/
+|   |   |-- solution.py
+|-- 1001-2000/
+|   |-- 1007. Minimum Domino Rotations For Equal Row/
+|   |   |-- solution.py
+|-- 2001-3000/
+|   |-- 2017. Grid Game/
+|   |   |-- solution.py
+|-- 3001-4000/
+|   |-- 3169. Count Days Without Meetings/
+|   |   |-- solution.py
+|-- badges/
 |-- README.md
 ```
 
-- **Problem Name**: Folder for the specific problem, containing the solution file.
+- **Range folders** (`1-1000`, `1001-2000`, etc.): Group problems by problem-number range.
+- **Problem folder**: Folder for the specific problem, containing the solution file.
 - **solution.py**: Python file containing the implementation for the problem.
 
+### Browse by Problem Range
+
+| Range | Folder Link | Problems |
+|---|---|---:|
+| 1-1000 | [1-1000](1-1000) | 68 |
+| 1001-2000 | [1001-2000](1001-2000) | 124 |
+| 2001-3000 | [2001-3000](2001-3000) | 144 |
+| 3001-4000 | [3001-4000](3001-4000) | 182 |
+
 ---
 
-## 🚀 Features
+## How to Find a Problem Quickly
 
-- **Consistent Updates**: Solutions will be added regularly.
-- **Optimized Implementations**: Focus on time and space complexity.
-- **Language Support**: Solutions are implemented using Python.
-- **Approach Explanation**: Detailed explanations for better understanding.
+1. Locate the problem number.
+2. Open the corresponding range folder.
+3. Open the exact problem directory.
+
+Examples:
+
+- Problem 118 -> [1-1000](1-1000)
+- Problem 1262 -> [1001-2000](1001-2000)
+- Problem 2471 -> [2001-3000](2001-3000)
+
+Range formula:
+
+- Bucket start = `floor((n - 1) / 1000) * 1000 + 1`
+- Bucket end = `bucket start + 999`
 
 ---
 
-## 🔧 How to Use
+## Features
+
+- **Scalable Organization**: Number-range buckets keep navigation manageable as the repo grows.
+- **Consistent Updates**: New solved problems are added regularly.
+- **Optimization Focus**: Solutions prioritize time and space efficiency.
+- **Mixed Language Support**: Primarily Python, with Java for selected problems.
+- **Clean Problem Layout**: One folder per problem, with solution files kept simple and direct.
+
+---
+
+## How to Use
 
 1. Clone the repository:
     ```bash
     git clone https://github.com/RizwanMolla/LeetCode.git
     ```
-2. Navigate to the folder for the specific problem.
-3. Open the solution file to view the implementation.
+2. Navigate to the correct range folder based on the problem number.
+3. Open the problem folder.
+4. Open the solution file to view the implementation.
 
 ---
 
-## 🗂️ Example Structure
+## Contribution Guidelines
 
-```
-LeetCode/
-|
-|-- Problem Name/
-|   |-- solution.py
-```
+This is a personal repository, but suggestions are welcome.
 
-- **solution.py**: Contains the solution code for the problem.
+If you want to contribute:
 
----
-
-## 📝 Contribution Guidelines
-
-This is a personal repository; however, suggestions and improvements are always welcome. Feel free to fork the repository and submit a pull request.
+1. Fork the repository.
+2. Create a branch.
+3. Add your improvement.
+4. Open a pull request.
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - Thanks to [LeetCode](https://leetcode.com/) for curating an excellent set of problems.
 - Inspired by the amazing coding community.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- **Monthly Progress Streak:** Consistently earned LeetCode monthly challenge badges from Nov 2024 onward, completing all months in 2025.
+- **Monthly Progress Streak:** Consistently earned LeetCode monthly challenge badges from Nov 2024 onward, including all months in 2025.
 
 
-## 📫 Contact  
+## Contact  
 
 For any questions or discussions, feel free to reach out on:  
 - **X (formerly Twitter)**: [@MdRizwanMolla](https://x.com/MdRizwanMolla)  
