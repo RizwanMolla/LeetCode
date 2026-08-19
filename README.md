@@ -5,6 +5,59 @@ Welcome to the **LeetCode (Daily Coding Challenge) Solutions** repository! 🚀
 This repository is dedicated to maintaining solutions for various problems from [LeetCode](https://leetcode.com/). Here, you'll find my implementations, optimized solutions, and explanations for solving these problems.  
 
 ---
+### LeetCode Monthly Badge Streak
+
+<p align="center">
+
+  <!-- Outer layer (new badges) -->
+  <img src="badges/knight.png" width="80" />
+  <img src="badges/50_1080_1080.png" width="80" />
+  <img src="badges/100_1080_1080.png" width="80" />
+  <img src="badges/200_1080_1080.png" width="80" />
+  <br>
+
+  <!-- Core + expanded honeycomb -->
+  <img src="badges/dcc-2024-11.png" width="80" />
+  <img src="badges/2024-50-lg.png" width="80" />
+  <img src="badges/dcc-2024-12.png" width="80" />
+  <img src="badges/dcc-2025-1.png" width="80" />
+  <img src="badges/dcc-2025-2.png" width="80" />
+  <br>
+
+  <img src="badges/dcc-2025-3.png" width="80" />
+  <img src="badges/dcc-2025-4.png" width="80" />
+  <img src="badges/dcc-2025-5.png" width="80" />
+  <img src="badges/dcc-2025-6.png" width="80" />
+  <img src="badges/dcc-2025-7.png" width="80" />
+  <img src="badges/dcc-2025-8.png" width="80" />
+  <br>
+
+  <img src="badges/dcc-2025-9.png" width="80" />
+  <img src="badges/dcc-2025-10.png" width="80" />
+  <img src="badges/dcc-2025-11.png" width="80" />
+  <img src="badges/dcc-2025-12.png" width="80" />
+  <img src="badges/dcc-2026-1.png" width="80" />
+  <img src="badges/dcc-2026-2.png" width="80" />
+  <img src="badges/dcc-2026-3.png" width="80" />
+  <br>
+
+  <img src="badges/dcc-2026-4.png" width="80" />
+  <img src="badges/dcc-2026-5.png" width="80" />
+  <img src="badges/dcc-2026-6.png" width="80" />
+  <img src="badges/dcc-2026-7.png" width="80" />
+  <img src="badges/lg365.png" width="80" />
+  <img src="badges/lg500.png" width="80" />
+  <br>
+
+  <!-- Other badges -->
+  <img src="badges/lg2550.png" width="80" />
+  <img src="badges/lg25100.png" width="80" />
+  <img src="badges/lg200.png" width="80" />
+  <img src="badges/2025_lg.png" width="80" />
+
+</p>
+
+---
 
 ## 📂 Directory Structure
 
@@ -72,50 +125,6 @@ This is a personal repository; however, suggestions and improvements are always 
 ## 🏆 Achievements
 
 - **Monthly Progress Streak:** Consistently earned LeetCode monthly challenge badges from Nov 2024 onward, completing all months in 2025.
-
-### LeetCode Monthly Badge Streak
-
-<p align="center">
-
-  <!-- 2024 -->
-  <img src="badges/dcc-2024-11.png" width="80" />
-  <img src="badges/2024-50-lg.png" width="80" />
-  <img src="badges/dcc-2024-12.png" width="80" />
-  <br>
-
-  <!-- 2025 -->
-  <img src="badges/dcc-2025-1.png" width="80" />
-  <img src="badges/dcc-2025-2.png" width="80" />
-  <img src="badges/dcc-2025-3.png" width="80" />
-  <img src="badges/dcc-2025-4.png" width="80" />
-  <br>
-
-  
-  <img src="badges/dcc-2025-5.png" width="80" />
-  <img src="badges/dcc-2025-6.png" width="80" />
-  <img src="badges/lg365.png" width="80" />
-  <img src="badges/dcc-2025-7.png" width="80" />
-  <img src="badges/dcc-2025-8.png" width="80" />
-  
- 
-
-  <br>
-  <img src="badges/dcc-2025-9.png" width="80" />
-  <img src="badges/dcc-2025-10.png" width="80" />
-  <img src="badges/dcc-2025-11.png" width="80" />
-
-  <!-- Other badges -->
-  
-  <img src="badges/lg2550.png" width="80" />
-  
-  
-
-  <br>
-  <img src="badges/lg25100.png" width="80" />
-  <img src="badges/lg200.png" width="80" />
-  <img src="badges/2025_lg.png" width="80" />
-
-</p>
 
 
 ## 📫 Contact  
